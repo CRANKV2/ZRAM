@@ -69,7 +69,8 @@ Or you can type
 ## su -c cat /proc/meminfo
 and search for 'SwapTotal' 'SwapFree' To see if changed kb amount or not!
 
-## Join 
+<h1 align="center"><b> JOIN </b></h1> 
+
 https://t.me/AndroidRootModulesCommunity
 
 
