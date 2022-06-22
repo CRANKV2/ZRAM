@@ -2,6 +2,8 @@
 (20003)
 Fix on some devices with swap support 
 doesn't change at all, now working.
+Implemented Magisk Direct Update Feature 
+over ur Module List!
 
 (20002)
 Added zRAM - SWAP up to 15 GB!
