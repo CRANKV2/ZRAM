@@ -26,6 +26,19 @@ Basically compresses unused apps within the system RAM. This allows the system t
 Instead uses a small portion of the SDcard like RAM. The phone will attempt to keep as much within the ram as possible until fill, and then begin using the swap partition on the SDcard. At that point, the phone will begin moving inactive blocks of memory to the SD, freeing up RAM for active processes. If one of the pages on the SD needs to be accessed again, it will be moved back into RAM, and a different inactive page in RAM will be moved onto the SD ('swapped').
 ════════════════════
 
+<h1 align="center"><b> How do i know i can use zRam or Swap?? </b></h1> 
+═══════════════════
+
+# There 2 Ways..;
+## FIRST
+Open up TERMUX and type 
+## su -c cat /proc/swaps
+To check if ur having any Swap Partition.
+═══════════════════
+
+## Second
+If ur Phone/Rom has the Feature 'RAM PLUS' ur been able to change zRam between 1 or 15GB!
+═══════════════════
 <h1 align="center"><b> FAQ's </b></h1> 
 
 ### How much storage it will take?
@@ -48,6 +61,13 @@ Thats typically normal, just boot up and gave ur phone bit Time to work with ur 
 
 That's because u choose an to High amount of ZRam, reflash and use a lower one!
 ════════════════════
+### How do i know if it works or not?!
+
+You can use any Application what Checks Partitions, like DiskSpace!
+
+Or you can type 
+## su -c cat /proc/meminfo
+and search for 'SwapTotal' 'SwapFree' To see if changed kb amount or not!
 
 ## Join 
 https://t.me/AndroidRootModulesCommunity
