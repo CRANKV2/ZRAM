@@ -1,8 +1,9 @@
 id=STRP-ZRAM
 name=𝙎𝙩𝙧𝙖𝙩𝙤𝙨𝙥𝙝𝙚𝙧𝙚 - 𝙕𝙧𝙖𝙢
 version=1.0
-versionCode=20001
+versionCode=20002
 author=@CRANKV2
 description=STRP-ZRAM Will Gives You From 1 Up To 15 GB Extra Ram Partition On Your Device!
 support=https://t.me/AndroidRootModulesCommunity
 minMagisk=20300
+updateJson=https://raw.githubusercontent.com/CRANKV2/ZRAM/main/module.json
