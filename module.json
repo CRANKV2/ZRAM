@@ -1,6 +1,6 @@
 {
   "versionCode": 20001,
   "version": "v1.0",
-  "zipUrl": "https://github.com/CRANKV2/ZRAM/releases/download/ZRAM/ZRAM-UPDATE.zip",
+  "zipUrl": "https://github.com/CRANKV2/ZRAM/archive/refs/tags/ZRAM.zip",
   "changelog": "https://raw.githubusercontent.com/CRANKV2/ZRAM/main/change.log"
  }
