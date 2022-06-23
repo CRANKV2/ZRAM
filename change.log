@@ -1,4 +1,7 @@
 ##v1.0
+(20004)
+▌Removed and adjusted some lines in code to fix small issue's code executes properly while booting.
+
 (20003)
 ▌Fix on some devices with swap support doesn't change at all, now working.
 
