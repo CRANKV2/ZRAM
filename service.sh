@@ -3,7 +3,6 @@ sleep 10
 # Add ZRAM ZRAM FOR VNSWAP
 swapoff /dev/block/vnswap0
 echo "1" > /sys/block/vnswap0/reset
-echo "0" > /sys/block/vnswap0/disksize
 echo "zramsize" > /sys/block/vnswap0/disksize
 echo "memlim" > /sys/block/vnswap0/mem_limit
 echo "8" > /sys/block/vnswap0/max_comp_streams
@@ -21,7 +20,6 @@ cat /sys/module/lowmemorykiller/parameters/minfree
 # Add ZRAM FOR ZRAM0
 swapoff /dev/block/zram0
 echo "1" > /sys/block/zram0/reset
-echo "0" > /sys/block/zram0/disksize
 echo "zramsize" > /sys/block/zram0/disksize
 echo "memlim" > /sys/block/zram0/mem_limit
 echo "8" > /sys/block/zram0/max_comp_streams
@@ -40,7 +38,6 @@ cat /sys/module/lowmemorykiller/parameters/minfree
 # Add ZRAM FOR VBSWAP
 swapoff /dev/block/vbswap0
 echo "1" > /sys/block/vbswap0/reset
-echo "0" > /sys/block/vbswap0/disksize
 echo "zramsize" > /sys/block/vbswap0/disksize
 echo "memlim" > /sys/block/vbswap0/mem_limit
 echo "8" > /sys/block/vbswap0/max_comp_streams
