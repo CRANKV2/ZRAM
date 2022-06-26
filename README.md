@@ -1,9 +1,12 @@
+<p align="center"><a href="https://t.me/AndroidRootModulesCommunity"><img src="https://i.imgur.com/TeMx74T.png" width="500"></a></p>  
+ <h1 align="center"><b> STRP - ZRAM </b></h1> 
+ <h4 align="center">STRP-ZRAM Will Gives You From 1 GB Up To 15 GB Extra zRam Partition On Your Device!
+ </h4>
 
-STRP - ZRAM
+ <a href="https://t.me/AndroidRootModulesCommunity"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
-STRP-ZRAM Will Gives You From 1 GB Up To 15 GB Extra zRam Partition On Your Device!
+ <h1 align="center"><b> UNIVERSAL </b></h1>
  
- UNIVERSAL
 
 ════════════════════
 REQUIREMENTS
@@ -15,8 +18,9 @@ Latest Busybox/Brutal
 Android 7.0+
 ════════════════════
 
- About zRAM or Swap
-
+ <h1 align="center"><b> About zRAM or Swap
+ </b></h1>
+ 
 # ZRAM
 Basically compresses unused apps within the system RAM. This allows the system to swap less needed processes to the Zram partition for faster access at a later time, instead of killing them. This does take up some of your ram though, so I imagine that the value you are setting is determining exactly what percentage of your ram that the zram partition is allotted.
 ════════════════════
@@ -71,5 +75,4 @@ JOIN
 
 https://t.me/AndroidRootModulesCommunity
 ═══════════════════
-
- STAY FAST ⚡️
+  <h1 align="center"><b> STAY FAST ⚡️ </b></h1>
