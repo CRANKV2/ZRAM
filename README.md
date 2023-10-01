@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/AndroidRootModulesCommunity"><img src="https://i.imgur.com/TeMx74T.png" width="500"></a></p>  
+<p align="center"><a href="https://t.me/AndroidRootModulesCommunity"><img src="https://i.imgur.com/hxbAbP4.jpg" width="500"></a></p>  
  <h1 align="center"><b> STRP ✗ ZRAM </b></h1> 
  <h4 align="center">STRP ✗ ZRAM is a module that provides additional ZRAM (compressed RAM) partition options ranging from 1 GB up to 15 GB on your Android device.
  </h4>
